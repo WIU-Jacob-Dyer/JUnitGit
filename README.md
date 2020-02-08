@@ -1,5 +1,4 @@
 <h1>README</h1>
-<br>
 <h2>JUnitGit Assignment</h2>
 <br>
 <h2>AUTHOR</h2>
